@@ -342,7 +342,7 @@ function GetInput()
 	{
 		input[6] = 1;
 	}
-	if(keysPressed["z"])
+	if(keysPressed["z"] || keysPressed["Z"])
 	{
 		input[7] = 1;
 	}
@@ -432,3 +432,4 @@ function CompareArrays(arr1, arr2)
 	}
 	return true;
 }
+

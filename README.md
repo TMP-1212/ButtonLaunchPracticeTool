@@ -1,4 +1,4 @@
-# ButtonLaunchpPracticeTool
+# ButtonLaunchPracticeTool
 
 Inspired by https://github.com/pellsson/smb.
 

@@ -1,4 +1,4 @@
-# HelicopterSkipPracticeTool
+# ButtonLaunchpPracticeTool
 
 Inspired by https://github.com/pellsson/smb.
 
